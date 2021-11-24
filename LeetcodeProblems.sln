@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0231PowerOfTwo", "0231Power
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0326PowerOfThree", "0326PowerOfThree\0326PowerOfThree.csproj", "{C9E8E6C4-04CC-45AC-A34E-1E4779AF947A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0342PowerOfFour", "0342PowerOfFour\0342PowerOfFour.csproj", "{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0342PowerOfFour", "0342PowerOfFour\0342PowerOfFour.csproj", "{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0203RemoveLinkedListElement", "0203RemoveLinkedListElement\0203RemoveLinkedListElement.csproj", "{484291A2-05B7-41F9-A18C-6B393B9C8873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484291A2-05B7-41F9-A18C-6B393B9C8873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484291A2-05B7-41F9-A18C-6B393B9C8873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484291A2-05B7-41F9-A18C-6B393B9C8873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484291A2-05B7-41F9-A18C-6B393B9C8873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
