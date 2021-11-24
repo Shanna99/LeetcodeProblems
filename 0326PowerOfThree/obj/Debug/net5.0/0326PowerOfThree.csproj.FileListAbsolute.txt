@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\ref\0326PowerOfThree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\bin\Debug\net5.0\0326PowerOfThree.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\ref\0326PowerOfThree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0326PowerOfThree\obj\Debug\net5.0\0326PowerOfThree.genruntimeconfig.cache
