@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\ref\0700SearchInBST.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\bin\Debug\net5.0\0700SearchInBST.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\ref\0700SearchInBST.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0700SearchInBST\obj\Debug\net5.0\0700SearchInBST.genruntimeconfig.cache

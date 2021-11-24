@@ -1,0 +1,15 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\ref\0098ValidateBinarySearchTree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\bin\Debug\net5.0\0098ValidateBinarySearchTree.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\ref\0098ValidateBinarySearchTree.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0098ValidateBinarySearchTree\obj\Debug\net5.0\0098ValidateBinarySearchTree.genruntimeconfig.cache

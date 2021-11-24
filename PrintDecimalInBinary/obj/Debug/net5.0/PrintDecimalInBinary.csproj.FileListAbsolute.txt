@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\ref\PrintDecimalInBinary.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\bin\Debug\net5.0\PrintDecimalInBinary.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\ref\PrintDecimalInBinary.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\PrintDecimalInBinary\obj\Debug\net5.0\PrintDecimalInBinary.genruntimeconfig.cache

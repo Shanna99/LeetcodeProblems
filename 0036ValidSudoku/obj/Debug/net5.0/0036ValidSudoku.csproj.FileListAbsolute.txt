@@ -1,0 +1,15 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\ref\0036ValidSudoku.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\bin\Debug\net5.0\0036ValidSudoku.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\ref\0036ValidSudoku.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0036ValidSudoku\obj\Debug\net5.0\0036ValidSudoku.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\ref\0344ReverseString.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\bin\Debug\net5.0\0344ReverseString.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\ref\0344ReverseString.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0344ReverseString\obj\Debug\net5.0\0344ReverseString.genruntimeconfig.cache

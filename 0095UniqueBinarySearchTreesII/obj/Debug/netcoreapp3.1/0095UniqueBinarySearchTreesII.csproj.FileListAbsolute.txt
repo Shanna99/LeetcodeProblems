@@ -1,0 +1,5 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0095UniqueBinarySearchTreesII\obj\Debug\netcoreapp3.1\0095UniqueBinarySearchTreesII.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0095UniqueBinarySearchTreesII\obj\Debug\netcoreapp3.1\0095UniqueBinarySearchTreesII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0095UniqueBinarySearchTreesII\obj\Debug\netcoreapp3.1\0095UniqueBinarySearchTreesII.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0095UniqueBinarySearchTreesII\obj\Debug\netcoreapp3.1\0095UniqueBinarySearchTreesII.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0095UniqueBinarySearchTreesII\obj\Debug\netcoreapp3.1\0095UniqueBinarySearchTreesII.csproj.CoreCompileInputs.cache

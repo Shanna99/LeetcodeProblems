@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\ref\0012IntToRoman.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\bin\Debug\net5.0\0012IntToRoman.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\ref\0012IntToRoman.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0012IntToRoman\obj\Debug\net5.0\0012IntToRoman.genruntimeconfig.cache

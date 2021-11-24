@@ -1,0 +1,13 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\bin\Debug\netcoreapp3.1\0587ErectTheFence.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0587ErectTheFence\obj\Debug\netcoreapp3.1\0587ErectTheFence.genruntimeconfig.cache

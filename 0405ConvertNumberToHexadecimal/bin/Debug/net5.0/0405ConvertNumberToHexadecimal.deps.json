@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "0405ConvertNumberToHexadecimal/1.0.0": {
+        "runtime": {
+          "0405ConvertNumberToHexadecimal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0405ConvertNumberToHexadecimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

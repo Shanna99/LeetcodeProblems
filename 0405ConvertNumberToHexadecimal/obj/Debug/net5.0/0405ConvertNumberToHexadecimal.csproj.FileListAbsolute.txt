@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\ref\0405ConvertNumberToHexadecimal.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\bin\Debug\net5.0\0405ConvertNumberToHexadecimal.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\ref\0405ConvertNumberToHexadecimal.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0405ConvertNumberToHexadecimal\obj\Debug\net5.0\0405ConvertNumberToHexadecimal.genruntimeconfig.cache

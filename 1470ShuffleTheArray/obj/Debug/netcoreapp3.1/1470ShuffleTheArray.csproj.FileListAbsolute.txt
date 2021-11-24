@@ -1,0 +1,14 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\bin\Debug\netcoreapp3.1\1470ShuffleTheArray.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\1470ShuffleTheArray\obj\Debug\netcoreapp3.1\1470ShuffleTheArray.genruntimeconfig.cache

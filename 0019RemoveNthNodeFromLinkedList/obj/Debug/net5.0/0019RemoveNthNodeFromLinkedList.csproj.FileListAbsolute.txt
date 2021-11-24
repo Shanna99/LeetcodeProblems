@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\ref\0019RemoveNthNodeFromLinkedList.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\bin\Debug\net5.0\0019RemoveNthNodeFromLinkedList.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\ref\0019RemoveNthNodeFromLinkedList.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0019RemoveNthNodeFromLinkedList\obj\Debug\net5.0\0019RemoveNthNodeFromLinkedList.genruntimeconfig.cache

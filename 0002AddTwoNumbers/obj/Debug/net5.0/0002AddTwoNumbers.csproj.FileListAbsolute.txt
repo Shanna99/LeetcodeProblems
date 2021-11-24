@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\ref\0002AddTwoNumbers.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\bin\Debug\net5.0\0002AddTwoNumbers.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\ref\0002AddTwoNumbers.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0002AddTwoNumbers\obj\Debug\net5.0\0002AddTwoNumbers.genruntimeconfig.cache

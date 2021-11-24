@@ -1,0 +1,16 @@
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.exe
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.deps.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.runtimeconfig.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.runtimeconfig.dev.json
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\ref\0231PowerOfTwo.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\bin\Debug\net5.0\0231PowerOfTwo.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.AssemblyInfo.cs
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\ref\0231PowerOfTwo.dll
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.pdb
+C:\Users\Shanna v. Grevengoed\source\repos\LeetcodeProblems\0231PowerOfTwo\obj\Debug\net5.0\0231PowerOfTwo.genruntimeconfig.cache
