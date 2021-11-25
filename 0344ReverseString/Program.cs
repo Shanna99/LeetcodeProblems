@@ -12,9 +12,7 @@ namespace _0344ReverseString
             {
                 return;
             }
-
             ReverseString(s, 0, s.Length - 1);
-
         }
 
         public void ReverseString(char[] s, int i, int j)
@@ -27,11 +25,7 @@ namespace _0344ReverseString
             s[i] = s[j];
             s[j] = temp;
             ReverseString(s, ++i, --j);
-
         }
-
-
-
 
         static void Main(string[] args)
         {
@@ -39,7 +33,18 @@ namespace _0344ReverseString
             char[] input = new char[] { 'h', 'e', 'l', 'l', 'o' };
             p.ReverseString(input);
 
+            foreach(var i in input)
+            {
+                Console.WriteLine(i);
+            }
 
+            Solution2 s2 = new Solution2();
+            s2.ReverseString(input);
+
+            foreach (var i in input)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
