@@ -34,7 +34,7 @@ namespace _0024SwapNodesInPairs
             {
                 
             }
-
+            return node;
 
         }
 
