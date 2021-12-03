@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0326PowerOfThree", "0326Pow
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0342PowerOfFour", "0342PowerOfFour\0342PowerOfFour.csproj", "{56A1ABAA-DD7B-4FCB-87B6-C0D12353946A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0509FibonacciNumber", "0509FibonacciNumber\0509FibonacciNumber.csproj", "{B04977D6-79FA-4D28-8950-A88F16104AAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0509FibonacciNumber", "0509FibonacciNumber\0509FibonacciNumber.csproj", "{B04977D6-79FA-4D28-8950-A88F16104AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070ClimbStairs", "0070ClimbStairs\0070ClimbStairs.csproj", "{F28E28B0-C4C5-4255-A261-217510437FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B04977D6-79FA-4D28-8950-A88F16104AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B04977D6-79FA-4D28-8950-A88F16104AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B04977D6-79FA-4D28-8950-A88F16104AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28E28B0-C4C5-4255-A261-217510437FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28E28B0-C4C5-4255-A261-217510437FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28E28B0-C4C5-4255-A261-217510437FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28E28B0-C4C5-4255-A261-217510437FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
