@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1929ConcatenationOfArray", "1929ConcatenationOfArray\1929ConcatenationOfArray.csproj", "{318A38FF-A505-4824-BC45-9300D410F5EC}"
 EndProject
@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0342PowerOfFour", "0342Powe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0509FibonacciNumber", "0509FibonacciNumber\0509FibonacciNumber.csproj", "{B04977D6-79FA-4D28-8950-A88F16104AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431KidsWithGreatestNumberOfCandy", "1431KidsWithGreatestNumberOfCandy\1431KidsWithGreatestNumberOfCandy.csproj", "{6FA9A62C-44BB-4557-AF1A-5139968A1FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431KidsWithGreatestNumberOfCandy", "1431KidsWithGreatestNumberOfCandy\1431KidsWithGreatestNumberOfCandy.csproj", "{6FA9A62C-44BB-4557-AF1A-5139968A1FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009Palindrome", "0009Palindrome\0009Palindrome.csproj", "{4329245D-00DE-48A0-B5D3-04EFACA48344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{6FA9A62C-44BB-4557-AF1A-5139968A1FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA9A62C-44BB-4557-AF1A-5139968A1FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA9A62C-44BB-4557-AF1A-5139968A1FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4329245D-00DE-48A0-B5D3-04EFACA48344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4329245D-00DE-48A0-B5D3-04EFACA48344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4329245D-00DE-48A0-B5D3-04EFACA48344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4329245D-00DE-48A0-B5D3-04EFACA48344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
